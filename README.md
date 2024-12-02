@@ -5,7 +5,7 @@
 ## Membres du projet
 - Chaabnia Akram
 - Mokhtari Abdelheq
-- Razi Mohammed Raouf
+- Razi Mohamed Raouf
 
 ## Supervision
 Le projet est supervisé par **M. Chakib Fettal**
